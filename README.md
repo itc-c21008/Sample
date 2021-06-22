@@ -7,5 +7,5 @@ itc-c21008 ヴァレス佳依
 	[okonomi3.txt](https://github.com/itc-c21008/sample/blob/master/okonomi3.txt)
 
 ## リモートリポジトリ
-* [README.md](https://github.com/itc-c21008/Sample/blob/master/README.md)を作ってみる
+* [README.md](https://github.com/itc-c21008/sample/blob/master/README.md)を作ってみる
 * マークダウンを覚える
